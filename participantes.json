@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "nombre": "Juan",
+    "apellido": "Pérez",
+    "cargo": "Presidente",
+    "asociacion": "Asociación Venezolana Centro Occidental",
+    "distrito": "Distrito Central Barquisimeto",
+    "iglesia": "Iglesia Central de Barquisimeto",
+    "correo": "juan.perez@avco.org.ve",
+    "telefono": "+58 412-1234567",
+    "biografia": "Líder eclesiástico con más de 20 años de servicio pastoral en el territorio venezolano.",
+    "foto": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=500&q=80"
+  },
+  {
+    "id": 2,
+    "nombre": "María",
+    "apellido": "Rodríguez",
+    "cargo": "Secretaria Ejecutiva",
+    "asociacion": "Asociación Venezolana Centro Occidental",
+    "distrito": "Distrito Este",
+    "iglesia": "Iglesia Las Acacias",
+    "correo": "maria.rodriguez@avco.org.ve",
+    "telefono": "+58 414-9876543",
+    "biografia": "Magíster en administración educativa y eclesiástica. Fundamental en los registros ministeriales.",
+    "foto": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=500&q=80"
+  }
+]
