@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "nombre": "Adolfo",
+    "apellido": "Cabrera",
+    "cargo": "Delegado Regular",
+    "cedula": "V-12.345.678",
+    "foto": "photos/adolfo-cabrera.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "María",
+    "apellido": "González",
+    "cargo": "Delegada Regular",
+    "cedula": "V-14.567.890",
+    "foto": null
+  },
+  {
+    "id": 3,
+    "nombre": "José",
+    "apellido": "Martínez",
+    "cargo": "Tesorero",
+    "cedula": "V-9.876.543",
+    "foto": null
+  },
+  {
+    "id": 4,
+    "nombre": "Ana",
+    "apellido": "Pérez",
+    "cargo": "Directora de Educación",
+    "cedula": "V-16.234.567",
+    "foto": null
+  },
+  {
+    "id": 5,
+    "nombre": "Pedro",
+    "apellido": "Hernández",
+    "cargo": "Director de Evangelismo",
+    "cedula": "V-11.098.765",
+    "foto": null
+  },
+  {
+    "id": 6,
+    "nombre": "Laura",
+    "apellido": "Torres",
+    "cargo": "Directora de Ministerio de la Mujer",
+    "cedula": "V-17.345.678",
+    "foto": null
+  },
+  {
+    "id": 7,
+    "nombre": "Ramón",
+    "apellido": "Díaz",
+    "cargo": "Director de Jóvenes",
+    "cedula": "V-20.123.456",
+    "foto": null
+  },
+  {
+    "id": 8,
+    "nombre": "Sofía",
+    "apellido": "Vargas",
+    "cargo": "Directora de Comunicación",
+    "cedula": "V-18.456.789",
+    "foto": null
+  }
+]
